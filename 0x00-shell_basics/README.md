@@ -6,3 +6,4 @@ Script 4 - Display current working directory contents, including hidden files. U
 Script 5 - Display all files in long format with user and group IDs displayed numerically. <br>
 Script 6 - Creates a directory named my_first_directory in the /tmp/ directory. <br>
 Script 7 - Move the file /tmp/betty to /tmp/my_first_directory. <br>
+Script 8 - Delete thr file /tmp/my_first_directory. <br>
