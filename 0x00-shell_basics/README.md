@@ -8,3 +8,4 @@ Script 6 - Creates a directory named my_first_directory in the /tmp/ directory. 
 Script 7 - Move the file /tmp/betty to /tmp/my_first_directory. <br>
 Script 8 - Delete the file /tmp/my_first_directory. <br>
 Script 9 - Delete the /tmp/my_first_directory. <br>
+Script 10 - Change working directory to previous one. <br>
