@@ -10,3 +10,4 @@ Script 8 - Delete the file /tmp/my_first_directory. <br>
 Script 9 - Delete the /tmp/my_first_directory. <br>
 Script 10 - Change working directory to previous one. <br>
 Script 11 - Display all files in the current directory, parent of the working directory and the /boot directory in long format. <br>
+Script 12 - Print the type of file name /tmp/iamafile. <br>
