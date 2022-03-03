@@ -8,4 +8,8 @@ Script 5 - Add execute permission to the owner of the file hello. <br>
 Script 6 - Add execute permission to the owner and the group owner, and read permission to other users, to the file hello. <br>
 Script 7 - Adds execution permission to the owner, the group owner and the other users, to the file hello. <br>
 Script 8 - Sets no permissions for user and group but all permissions for other users, to the file hello. <br>
-Script 9 - Sets the mode of the file hello to -rwxr-x-wx <br>  
+Script 9 - Sets the mode of the file hello to -rwxr-x-wx <br>
+Script 10 = 
+Script 11 - 
+Script 12 - 
+Script 13 - Changes the group owner to school for the file hello. <br>  
