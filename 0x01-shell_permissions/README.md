@@ -12,4 +12,5 @@ Script 9 - Sets the mode of the file hello to -rwxr-x-wx <br>
 Script 10 = 
 Script 11 - 
 Script 12 - 
-Script 13 - Changes the group owner to school for the file hello. <br>  
+Script 13 - Change the group owner to school for the file hello. <br>
+Script 14 - Create a directory called my_dir with permissions 751 in the working directory. <br>  
