@@ -9,7 +9,7 @@ Script 6 - Add execute permission to the owner and the group owner, and read per
 Script 7 - Add execution permission to the owner, the group owner and the other users, to the file hello. <br>
 Script 8 - Set no permissions for user and group but all permissions for other users, to the file hello. <br>
 Script 9 - Set the mode of the file hello to -rwxr-x-wx <br>
-Script 10 = 
+Script 10 - Set the mode of the file hello the same as olleh’s mode. <br>
 Script 11 - Add execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed. <br> 
 Script 13 - Change the group owner to school for the file hello. <br>
 Script 12 - Create a directory called my_dir with permissions 751 in the working directory. <br>  
