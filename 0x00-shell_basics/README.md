@@ -14,5 +14,6 @@ Script 12 - Print the type of file name /tmp/iamafile. <br>
 Script 13 - Create a symbolic link to /bin/ls names __ls__ in the current working directory. <br>
 Script 14 - Copy all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory. <br>
 Script 15 - Move all files beginning with an uppercase letter to the directory /tmp/u. <br>
-Script 16 - Deletes all files in the current working directory that end with the character ~. <br>
+Script 16 - Delete all files in the current working directory that end with the character ~. <br>
 Script 17 - Create the directories welcome/, welcome/to/ and welcome/to/school in the current directory. <br>
+Script 18 - List all the files and directories of the current directory, separated by commas (,). <br>
