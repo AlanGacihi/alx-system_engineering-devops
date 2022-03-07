@@ -13,3 +13,4 @@ Script 10 - Delete all the regular files (not the directories) with a .js extens
 Script 11 - Count the number of directories and sub-directories in the current directory. <br>
 Script 12 - Display the 10 newest files in the current directory. <br>
 Script 13 - Take a list of words as input and prints only words that appear exactly once. <br>
+Script 14 - Display lines containing the pattern “root” from the file /etc/passwd. <br>
