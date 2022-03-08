@@ -11,3 +11,5 @@ Script 8 - Print the result of the addition of 128 with the value stored in the 
 Script 9 - Print the result of POWER divided by DIVIDE, followed by a new line. <br>
 Script 10 - Display the result of BREATH to the power LOVE. <br>
 Script 11 - Convert a number from base 2 to base 10. <br>
+Script 12 - Print all possible combinations of two letters, except oo. <br>
+Script 13 - Print a number with two decimal places, followed by a new line. <br>
