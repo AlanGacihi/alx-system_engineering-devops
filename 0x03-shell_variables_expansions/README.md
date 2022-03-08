@@ -13,3 +13,4 @@ Script 10 - Display the result of BREATH to the power LOVE. <br>
 Script 11 - Convert a number from base 2 to base 10. <br>
 Script 12 - Print all possible combinations of two letters, except oo. <br>
 Script 13 - Print a number with two decimal places, followed by a new line. <br>
+Script 100 - Convert a number from base 10 to base 16. <br>
