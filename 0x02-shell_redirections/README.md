@@ -22,3 +22,7 @@ Script 19 - Replace all characters A and c from input to Z and e respectively. <
 Script 20 - Remove all letters c and C from input. <br>
 Script 21 - Reverse input. <br>
 Script 22 - Display all users and their home directories, sorted by users. <br>
+Script 100 - Find all empty files and directories in the current directory and all sub-directories. <br>
+Script 101 - List all the files with a .gif extension in the current directory and all its sub-directories. <br>
+Script 102 - Decode acrostics that use the first letter of each line. <br>
+Script 103 - Parse web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests. <br>
