@@ -10,3 +10,4 @@ Script 7 - Create a new global variable name = BEST , value = School. <br>
 Script 8 - Print the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line. <br>
 Script 9 - Print the result of POWER divided by DIVIDE, followed by a new line. <br>
 Script 10 - Display the result of BREATH to the power LOVE. <br>
+Script 11 - Convert a number from base 2 to base 10. <br>
