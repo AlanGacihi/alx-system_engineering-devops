@@ -14,3 +14,6 @@ Script 11 - Convert a number from base 2 to base 10. <br>
 Script 12 - Print all possible combinations of two letters, except oo. <br>
 Script 13 - Print a number with two decimal places, followed by a new line. <br>
 Script 100 - Convert a number from base 10 to base 16. <br>
+Script 101 - Encode and decode text using the rot13 encryption. Assume ASCII. <br>
+Script 102 - Print every other line from the input, starting with the first line. <br>
+Script 103 - Add the two numbers stored in the environment variables WATER and STIR and prints the result. <br>
