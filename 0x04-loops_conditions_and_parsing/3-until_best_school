@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# This script is displaying "Holberton School" 10 times
+# This script is displaying "Bestx School" 10 times
 counter=0
 until [ $counter -eq 10 ]
 do
